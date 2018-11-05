@@ -1,1 +1,2 @@
-console.log("hello to the world");
+console.log("hello world");
+var maohe =100;
